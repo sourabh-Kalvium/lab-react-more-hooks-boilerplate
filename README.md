@@ -7,7 +7,7 @@
 
 In this exercise, the goal is to learn other types of hooks:
 
-- React Hooks:
+- React Hooks: 
   1. useReducer
   2. useRef
 
